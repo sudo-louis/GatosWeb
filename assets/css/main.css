@@ -1,0 +1,23 @@
+:root {
+    /* Colores principales */
+    --primario: #F5E8C7;
+    --secundario: #D9D9D9;
+
+    /* Colores de acento */
+    --naranja: #F4A261;
+    --verdementa: #8ECEB3;
+    --rosa: #F7CAC9;
+
+    /* Colores de texto y contraste */
+    --gris: #4F4F4F;
+    --negro: #000000;
+
+    /* Colores adicionales */
+    --blanco: #FFFFFF;
+    --danger: #FF6B6B;
+    --success: #4CAF50;
+}
+
+.fondofooter {
+    background-color: var(--verdementa);
+}
